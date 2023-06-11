@@ -1,4 +1,3 @@
-# cardio_vascular_detection
 # Supervised Learning Project
 
 Welcome to the repository for my supervised learning project! This project focuses on building and training a supervised learning model to predict the conditions of each patients who got a cardio vascular disease or not.
