@@ -30,7 +30,7 @@ To use the trained model for making predictions, follow these steps:
 
 
 ## Results
-This model is the second classification exercise to compare any performa from each algorithms.
+This model is the second classification exercise to compare any performa from each algorithms. This model has a 77% recall score for prediction
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Let's collaborate and make this project even better!
